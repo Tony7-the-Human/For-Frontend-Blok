@@ -1,6 +1,5 @@
 # For-Frontend-Blok
-
-## :hand: Привет! 
+___
 ### :bangbang: Секции для сайта frontendblok.com
 
 ___
