@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             if (btn.classList.contains('schedule-control_active')) {
                 btn.classList.remove('schedule-control_active');
+
                 featureSubElems.forEach((featureSubElem) => {
                     featureSubElem.classList.add('hidden')
                     addBackground[index].style.background = '#2a2f36'
@@ -26,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 })
                 featureSubElems.forEach((featureSubElem) => {
                     featureSubElem.classList.add('hidden')
-
+                    addBackground[index].style.background = '#2a2f36'
                 })
                 featureSubElems[index].classList.remove('hidden')
                 addBackground[index].style.background = '#fff'
