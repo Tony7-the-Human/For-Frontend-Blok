@@ -634,6 +634,11 @@ body {
         margin-left: 1.5rem;
         margin-right: 1.5rem;
     }
+    
+    .footer__item {
+    
+    max-width: 360px;
+}
     .footer__link-social {
         padding-left: 7rem;
     }
