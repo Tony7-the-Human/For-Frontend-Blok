@@ -650,7 +650,7 @@ body {
     }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1240px) {
     ._active {
         background: #fff;
     }
@@ -1569,7 +1569,7 @@ body {
     /* /active tabs */
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1240px) {
     .what-will__list,
     .what-will__title,
     .title,
