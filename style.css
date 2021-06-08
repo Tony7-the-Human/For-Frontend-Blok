@@ -669,6 +669,37 @@ body {
         margin-left: 4rem;
         margin-right: 4rem;
     }
+    
+    .schedule__item {
+    position: relative;
+    padding: 2px 10px 20px 28px;
+}
+
+.schedule__item:hover::before {
+    transition: .4s ease;
+    left: 1.15rem;
+}
+
+.schedule__item::after {
+    content: "";
+    position: absolute;
+    background: #12c0dd;
+    top: 1rem;
+    left: -4.5rem;
+    width: 6.4rem;
+    height: 1px;
+}
+
+.schedule__item::before {
+    content: "";
+    position: absolute;
+    background: #12c0dd;
+    top: .6rem;
+    left: -4.5rem;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+}
     .schedule__subtitle {
         max-width: 156rem;
         margin-left: 4rem;
