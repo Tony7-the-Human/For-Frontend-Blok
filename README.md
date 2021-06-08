@@ -3,6 +3,6 @@ ___
 ### :bangbang: Секции для сайта frontendblok.com
 
 ___
--https://tony7-the-human.github.io/For-Frontend-Blok/
+- https://tony7-the-human.github.io/For-Frontend-Blok/
 
 
