@@ -1188,7 +1188,7 @@ body {
 
 @media (max-width: 590px) {
     .schedule-name {
-        font-size: 1rem;
+        font-size: 1.2rem;
         color: #fff;
         max-width: 200px;
         padding: 0;
