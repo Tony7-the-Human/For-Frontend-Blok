@@ -1192,6 +1192,9 @@ body {
     ._social {
         width: 100%;
     }
+    ._skill, ._education {
+       margin-bottom: 0px;
+    }
     .footer__image {
         max-width: 250px;
         margin: 40px auto 0px auto;
